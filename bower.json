@@ -1,0 +1,21 @@
+{
+  "name": "pai",
+  "homepage": "https://github.com/m-slashe/Pai",
+  "authors": [
+    "Murilo <murilovicen@gmail.com>"
+  ],
+  "description": "",
+  "main": "release/principal.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^v1.6.1",
+    "angular-ui-router": "^0.3.2"
+  }
+}

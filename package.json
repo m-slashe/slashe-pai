@@ -1,6 +1,6 @@
 {
-  "name": "pai",
-  "version": "0.1.1",
+  "name": "slashe-pai",
+  "version": "1.0.0",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-concat": "^1.0.1",

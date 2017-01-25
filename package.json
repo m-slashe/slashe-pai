@@ -1,6 +1,6 @@
 {
   "name": "pai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-concat": "^1.0.1",
@@ -9,7 +9,7 @@
     "grunt-wiredep": "^3.0.1"
   },
   "scripts": {
-    "install" : "bower update",
-    "postinstall" : "grunt"
+    "install": "bower update",
+    "postinstall": "grunt"
   }
 }
